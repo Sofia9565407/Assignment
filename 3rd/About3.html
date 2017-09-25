@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+  <title>News</title>  
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <style>
+    .defaultStyle {
+      font:normal 12pt arial;
+      text-decoration: none;
+      background-color:#bbbbbb !important; 
+      width: 270px;
+      float: right;
+      padding: 20px;
+      margin-top: 10px;
+    }
+
+    .newStyle {
+      font:italic 12pt arial;
+      text-decoration: underline;
+      background-color:#e4d432 !important; 
+      width: 270px;
+      float: right;
+      padding: 20px;
+      margin-top: 10px;
+    }
+
+    .myStyle {
+      border: solid;
+      font-family: arial;
+      left: 200px;
+      top: 200px; 
+    }
+  </style>
+
+  <!==[if It IE 9]>
+  <script>
+       document.creatElement("article")
+       document.creatElement("aside")
+       document.creatElement("footer")
+       document.creatElement("header")
+       document.creatElement("main")
+       document.creatElement("nav")
+       document.creatElement("section")
+  </script>
+  <![endif]-->
+
+<script type="text/javascript">
+  function sidebar2_onMouseOver(){
+    var sidebar2 = document.getElementById("sidebar2");
+    sidebar2.className = "newStyle";
+    sidebar2.innerHTML = "<h2>Be yourself</h2><p>Always aim for the best!</p>";
+  }
+
+  function sidebar2_onMouseOut(){
+    var sidebar2 = document.getElementById("sidebar2");
+    sidebar2.className = "defaultStyle";
+    sidebar2.innerHTML = "<h2>Be yourself</h2><p>See what can be shown here.</p>";
+  }
+  var x = documnet.creatElement('div');
+  x.innerHTML = '<h2>Be yourself</h2><p>Hello World!</p>';
+  x.className = 'mystyle';
+</script>
+</head>
+
+<body>
+
+<header class="banner">
+ <h1 id="headline">Aboute</h1>
+ <p>Local and National News</p>
+</header>
+
+ <nav>
+ 	<ul id="navlist">
+ 		<li><a href="Home3.html" onmouseover="sidebar2_onMouseOver()" onmouseout="sidebar2_onMouseOut()">Home</a></li>
+    <li><a href="Archive3.html" onmouseover="sidebar2_onMouseOver()" onmouseout="sidebar2_onMouseOut()">Archive</a></li>
+    <li><a href="About3.html" onmouseover="sidebar2_onMouseOver()" onmouseout="sidebar2_onMouseOut()">About</a></li>
+ 	</ul>
+ </nav>
+   
+ <main>
+ 	<section>
+     <h2 id="local">Local News</h2>
+    
+     <article>
+     		<header>
+     			<h3>Fire fighters rescue man from building</h3>
+     			<p>(author, date)</p>
+     		</header>
+     		<p>This is the story text.</p>
+     		<p>This is the story text.</p>
+     </article>
+
+     <article>
+     		<header>
+     			<h3>New library to be built</h3>
+     			<p>(author, date)</p>
+     		</header>
+     		<p>This is the story text.</p>
+     		<p>This is the story text.</p><br>
+        More information: <input type="text" id="f2name">
+        
+     	</article>
+     </section>
+
+     <section>
+     <h2 id="national">National News</h2>
+     
+     <article>
+     		<header>
+     			<h3>Snow storm is making travel difficult</h3>
+     			<p>(author, date)</p>
+     		</header>
+     		<p>This is the story text.</p>
+     		<p>This is the story text.</p>
+     </article>
+
+     <article>
+     		<header>
+     			<h3>Thousands are without power</h3>
+     			<p>(author, date)</p>
+     		</header>
+     		<p>This is the story text.</p>
+     		<p>This is the story text.</p><br>
+        More information: <input type="text" id="mydemo">
+      
+     	</article>
+     </section>
+ </main>
+
+     <aside>
+     		<h2 id="demo">Be a news reporter</h2>
+     		<p>If you see news happening - Send us a Text.</p><br>
+        Input: <input type="text" id="fname">
+        <input type="button" value="Click" onclick = "new2function()"></input>
+     </aside>
+
+     <script>
+       var demo2 = document.getElementById("demo");
+       demo2.onmouseenter = function(){mouseEnter()};
+       demo2.onmouseleave = function(){mouseLeave()};
+       function mouseEnter(){
+         demo2.style.color = "red";
+       }
+
+       function mouseLeave(){
+         demo2.style.color = "black";
+       }
+     </script>
+
+     <div id="sidebar2" class="defaultStyle">
+     		<h2>Be yourself</h2>
+     		<p>See what can be shown here.</p>
+     </div>
+
+
+     <footer>
+     	<p id="newdemo">Footer Information</p>
+   </footer>
+     
+</body>
+
+     <script>
+       var demo3 = document.getElementById("newdemo");
+       demo3.ondblclick = function() {my2Function()};
+       function my2Function() {
+        demo3.innerHTML = "This is footer information.";
+       }
+     </script>
+
+      <script>
+        var x2 = document.getElementById("f2name");
+        x2.onkeyup = function() {myFunction()};
+        function myFunction(){
+          x2.value = x2.value.toUpperCase();
+        }
+      </script>
+
+      <script>
+        var demo4 = document.getElementById("mydemo");
+        demo4.onkeypress = function() {newFunction()};
+        function newFunction(){
+          demo4.style.backgroundColor = "lightblue";
+        }
+      </script>
+
+
+
+      <script>
+          var z = document.getElementById("fname");
+          var z3 = document.getElementById("sidebar2");
+        function new2function(){
+         z3.innerHTML = z.value;
+      }
+      z.onkeypress = function() {new3Function()};
+        function new3Function(){
+          z.style.backgroundColor = "yellow";
+        }
+        </script>
+
+
+</html>
