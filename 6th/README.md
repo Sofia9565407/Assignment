@@ -1,4 +1,4 @@
-The one used previous data:
+The first one used previous data:
 =============
   The "Table View" please click here: http://dev-my-1st-pantheon-site.pantheonsite.io/school-information#overlay-context=database.php
 
@@ -7,7 +7,7 @@ The one used previous data:
   The "Table created by JSON-database" please click here: http://dev-my-1st-pantheon-site.pantheonsite.io/lesson5/json-database.php
 
 
-The other one used new data:
+The second one used new data:
 =============
   The "Table View" please click here: http://dev-my-1st-pantheon-site.pantheonsite.io/shopping-address#overlay-context=
 
