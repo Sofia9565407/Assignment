@@ -10,7 +10,7 @@ The "Table created by JSON-database":
 [School information Database](http://dev-my-1st-pantheon-site.pantheonsite.io/lesson5/json-database.php)
 
 
-2.The second one used new data:
+<br/>2.The second one used new data:
 =============
 The views in Drupal:
 -------------
