@@ -1,5 +1,8 @@
-Storymap: http://dev-my-1st-pantheon-site.pantheonsite.io/My%20storymap/storymap.html
+Please click here to see the Storymap DEMO and its JSON:
+-------------
+- [Storymap DEMO](http://dev-my-1st-pantheon-site.pantheonsite.io/My%20storymap/storymap.html)
 
-Storymap JSON: http://dev-my-1st-pantheon-site.pantheonsite.io/My%20storymap/storymap.js
+- [JSON](http://dev-my-1st-pantheon-site.pantheonsite.io/My%20storymap/storymap.js)
 
-Aggregation table: http://dev-my-1st-pantheon-site.pantheonsite.io/company-products%203?field_company_value=2
+<br/>Please click here to see the Aggregation table of Company Products:
+- [Aggregation table](http://dev-my-1st-pantheon-site.pantheonsite.io/company-products%203?field_company_value=2)
