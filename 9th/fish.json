@@ -1,0 +1,191 @@
+{
+	"title": {
+            "text": {
+                "headline": "Fish Leong",
+                "text":     "Fish is my favorite singer. Her songs company me for the whole youth."
+            }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year":			"1978"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Fish_Leong"
+            },
+            "background": {
+				"opacity":"50",
+                "url": "fish_cover.jpg"
+            },
+            "text": {
+                "headline": "Introduction to Fish Leong",
+                "text": "Fish Leong is a famous Malaysian singer who was born on 16 June 1978. She debuted her singing career in Taiwan in 1997 and was appreciated by Jonathan Lee, an influential musician, then Fish signed a contrast with an independent record label called Rock Records Co., Ltd. She is famous for her mellifluous voice and sweet love songs and is known as “the queen of love songs”."
+            }
+        },   
+        {
+            "start_date": {
+                "year":			"1999"
+            },
+            "media": {
+                "url": "https://open.spotify.com/album/6MTOyV8gUuICd8rXmz8vay"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "https://i.ytimg.com/vi/eMIP1dvefx0/maxresdefault.jpg"
+            },
+            "text": {
+                "headline": "Grown Up Overnight",
+                "text": "Grown Up Overnight was Fish’s first Chinese music album which was released on 17 September 1999."
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2000"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=BVpXUyXPKOg"
+            },
+            "background": {
+                "url": "fish2.jpg"
+            },
+            "text": {
+                "headline": "Courage",
+                "text": "The tracks \"If There Was A Day\" and \"Courage\" are listed at number 9 and 47 respectively on Hit Fm Taiwan's Hit Fm Annual Top 100 Singles Chart (Hit-Fm年度百首單曲) for 2000."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2001"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=XPD-0b66Wv4"
+            },
+            "background": {
+               "url": "http://4493bz.1985t.com/uploads/allimg/160129/5-16012Z94230.jpg"
+            },
+            "text": {
+                "headline": "Shining Starm",
+                "text": "This is the third studio album and it was released on 26 June 2001. The tracks “Unconditionally For You” won the Golden Melody Award for Song of the Year in Taiwan."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2002"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=mYFIgGuyDa0"
+            },
+             "background": {
+                "url": "http://4493bz.1985t.com/uploads/allimg/160129/5-16012Z94230.jpg"
+            },
+            "text": {
+                "headline": "Sunrise",
+                "text": "It is the song “Happy Breakup” that makes Fish become Popular Singer in Top 20 and gain the title of “the queen of love songs”. And she also won the Golden Melody Award for Song of the Year in Taiwan 【the fourth CCTV-MTV music awards】 in this year."
+            }
+        },
+         {
+            "start_date": {
+                "year":         "2006"
+                // "month": "9"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=mYFIgGuyDa0"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "http://tupian.enterdesk.com/2012/0608/yt/02/7.jpg"
+            },
+            "text": {
+                "headline": "Kissing the Future of Love",
+                "text": "There are so many songs I like in this album, such as Kisses, Warm, Cola Ring, Amnesia, Bakery of Happiness. And she released her first song in Minnan and it brings me a different and unique experience. Although I cannot speak Minnan, yet I can sing this song, and I think this is the magic of music."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2009"
+                // "month": "12",
+                // "day": "4"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=OsdMP5RiPPs"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "http://img4.imgtn.bdimg.com/it/u=214310889,1346470756&fm=214&gp=0.jpg"
+            },
+            "text": {
+                "headline": "Fall in Love & Songs",
+                "text": "This is her first album released under a record label other than Rock Records and it is the fifth best selling album in Taiwan in 2009, according to Taiwan's G-Music chart. “There's no if” is the theme song of Taiwanese romantic-comedy television series “My Queen”, which is very popular in Taiwan and mainland."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2010",
+                "month": "2",
+                "day": "01"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=SXc426lA2W0"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "Fish&Tony.jpg"
+            },
+            "text": {
+                "headline": "The wedding",
+                "text": "On February 1, 2010, Fish and Tony got married in Boracay, Philippines, and Jonathan Lee was their marriage witness. Tony is a Taiwanese wine trader and they met each other for the first time on the glee feast for the concert in Shanghai, in 2007. They fell into love at first sight and after 3 years they got married."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2010"
+                // "month": "12",
+                // "day": "4"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=YKU7LOBejZM"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "http://3.bp.blogspot.com/_V1LS0WnM__8/TSgjuklrIJI/AAAAAAAAACw/TX-dB1GmZg0/s1600/Ice+Kacang.jpg"
+            },
+            "text": {
+                "headline": "First film: Ice Kacang Puppy Love",
+                "text": "This is Fish's first film and she acted Ma Libing. Throughout the story, Ma Libing was a quiet girl and was often seen holding a packet of iced barley drink (thus the nickname Barley-Bing) whenever she went. Fish has no dialogue in this film so she has to act with eyes to express the emotions and moods. I really appreciate Fish's performance so that I watched it twice."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2014",
+                "month": "4",
+                "day": "18"
+            },
+            "media": {
+                "url": "http://img.ltn.com.tw/Upload/ent/page/800/2016/01/09/phpAl0l9u.jpg"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "http://uploads.gz2010.cn/allimg/150521/5_150521171748.jpg"
+            },
+            "text": {
+                "headline": "The birth of Anderson",
+                "text": "On April 18, 2014, Fish gives birth to her son Anderson, Tony was so excited that posted the footprint phpoto of Anderson on the Sina Weibo the first time he took the photo."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2017"
+            },
+            "media": {
+                "url": "https://open.spotify.com/search/results/%E4%B8%A4%E9%9A%BE%20%E6%A2%81%E9%9D%99%E8%8C%B9"
+            },
+             "background": {
+                "url": "fish2.jpg"
+            },
+            "text": {
+                "headline": "The latest song: Dilemma",
+                "text": "This song is Fish's latest work which was released on September 29, 2017 and it's the opening song of a Taiwanese TV series called \"Jojo's World\""
+            }
+        }
+    ]
+}
