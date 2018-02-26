@@ -10,6 +10,6 @@ If they make 3 comments, they will get 20 points;
 
 If they register for the game, they will get 25 points;
 
-And there are User name and password for you to log in:
-
+There are User name and password for you to log in:
+----
 User name: Bernard; Password: Bernard
